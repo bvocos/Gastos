@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "tA3aZUCZBUBDd5lMOf6Q6xJZyK5r7Q4BgrMsR4gs7mw=",
+  "Source": "ApiGastos",
+  "BasePath": "_content/ApiGastos",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
